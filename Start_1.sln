@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Start_1", "Start_1\Start_1.csproj", "{76B3F326-BBA5-4766-B576-0ED15044B164}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task01Test", "Task01Test\Task01Test.csproj", "{378E7776-D9B7-40AF-B9C6-F8AB9B209731}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject2", "TestProject2\TestProject2.csproj", "{AD8578CE-C7AB-4107-BA89-B64EC6F03107}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76B3F326-BBA5-4766-B576-0ED15044B164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76B3F326-BBA5-4766-B576-0ED15044B164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76B3F326-BBA5-4766-B576-0ED15044B164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76B3F326-BBA5-4766-B576-0ED15044B164}.Release|Any CPU.Build.0 = Release|Any CPU
+		{378E7776-D9B7-40AF-B9C6-F8AB9B209731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{378E7776-D9B7-40AF-B9C6-F8AB9B209731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{378E7776-D9B7-40AF-B9C6-F8AB9B209731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{378E7776-D9B7-40AF-B9C6-F8AB9B209731}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD8578CE-C7AB-4107-BA89-B64EC6F03107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD8578CE-C7AB-4107-BA89-B64EC6F03107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD8578CE-C7AB-4107-BA89-B64EC6F03107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD8578CE-C7AB-4107-BA89-B64EC6F03107}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C944673-1965-4D41-8B38-42DC2072DA11}
+	EndGlobalSection
+EndGlobal
